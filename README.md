@@ -28,3 +28,6 @@ While the tool's initial design aimed to incorporate machine learning algorithms
 
 ## KPIs and their units:
 The tool has a predefined dictionary of KPIs with their associated units, which are essential metrics in appraising cell network performance. It also establishes criteria for categorizing each KPI based on set thresholds rooted in research and 3GPP standards.
+
+## CSV Limitations
+In the code development phase of our thesis project, we encountered a limitation concerning the availability of CSV documents for all Key Performance Indicators (KPIs). This issue arose as these documents were not accessible to us, hindering our ability to have a comprehensive dataset for analysis. Despite the lack of complete data for all KPIs, we proceeded with the available information to fulfill the objectives of our project to the best of our ability. The absence of CSV documents for certain KPIs is a notable limitation that required acknowledgment and adaptation in our approach to data analysis and interpretation within the scope of the project.
